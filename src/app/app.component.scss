@@ -1,0 +1,38 @@
+.modified-card {
+    border: 1px solid blue;
+    margin-bottom: 10px;
+    padding: 5px;
+}
+.table {
+    margin-bottom: 0 !important;
+    tbody {
+        line-height: 1rem
+    }
+}
+.table td { 
+    border: none !important; 
+    padding: 5px !important
+}
+.icon {
+    float: right;
+    color: blue
+}
+.label {
+    color: gray
+}
+.value {
+    font-weight: 500
+}
+
+.maintain-overflow {
+    height: 100vh;
+    overflow-y: scroll
+}
+
+.container {
+    justify-content: center
+}
+
+mat-icon {
+    cursor: pointer;
+}

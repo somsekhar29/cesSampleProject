@@ -1,0 +1,44 @@
+<div class="container mt-2">
+  <div class="row">
+    <div class="col-md-4"></div>
+    <div class="col-md-4 maintain-overflow">
+      <mat-card class="modified-card" *ngFor="let ele of data">
+        <mat-card-content>
+          <div class="icon">
+            <mat-icon aria-hidden="false" (click)="deleteRecord()">delete</mat-icon>
+            <mat-icon aria-hidden="false">edit</mat-icon>
+          </div><br>
+          <table class="table">
+            <tbody>
+              <tr>
+                <td class="label">First Name</td>
+                <td class="value">{{ele.first_name}}</td>
+              </tr>
+              <tr>
+                <td class="label">Last Name</td>
+                <td class="value">{{ele.last_name}}</td>
+              </tr>
+              <tr>
+                <td class="label">Title</td>
+                <td class="value">{{ele.title}}</td>
+              </tr>
+              <tr>
+                <td class="label">Email</td>
+                <td class="value">{{ele.email}}</td>
+              </tr>
+              <tr>
+                <td class="label">Phone No</td>
+                <td class="value">{{ele.phone_no}}</td>
+              </tr>
+              <tr>
+                <td class="label">Role</td>
+                <td class="value">{{ele.role}}</td>
+              </tr>
+            </tbody>
+          </table>
+        </mat-card-content>
+      </mat-card>
+    </div>
+    <div class="col-md-4"></div>
+  </div>
+</div>
