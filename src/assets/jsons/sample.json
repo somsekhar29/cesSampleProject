@@ -1,10 +1,189 @@
-[
-    { "first_name": "Som", "last_name": "Sekhar", "title": "Mr", "email": "som@cesltd.com", "phone_no": "9876543210", "role": "developer"
-    },
-    { "first_name": "Som", "last_name": "Sekhar", "title": "Mr", "email": "som@cesltd.com", "phone_no": "9876543210", "role": "developer"
-    },
-    { "first_name": "Som", "last_name": "Sekhar", "title": "Mr", "email": "som@cesltd.com", "phone_no": "9876543210", "role": "developer"
-    },
-    { "first_name": "Som", "last_name": "Sekhar", "title": "Mr", "email": "som@cesltd.com", "phone_no": "9876543210", "role": "developer"
-    }
-]
+{
+    "users": [
+        {
+            "first_name": "Som",
+            "last_name": "Sekhar",
+            "title": "Mr",
+            "email": "som@cesltd.com",
+            "phone_no": "9876543210",
+            "role": "developer"
+        },
+        {
+            "first_name": "Som",
+            "last_name": "Sekhar",
+            "title": "Mr",
+            "email": "som@cesltd.com",
+            "phone_no": "9876543210",
+            "role": "developer"
+        },
+        {
+            "first_name": "Som",
+            "last_name": "Sekhar",
+            "title": "Mr",
+            "email": "som@cesltd.com",
+            "phone_no": "9876543210",
+            "role": "developer"
+        },
+        {
+            "first_name": "Som",
+            "last_name": "Sekhar",
+            "title": "Mr",
+            "email": "som@cesltd.com",
+            "phone_no": "9876543210",
+            "role": "developer"
+        },
+        {
+            "first_name": "Som",
+            "last_name": "Sekhar",
+            "title": "Mr",
+            "email": "som@cesltd.com",
+            "phone_no": "9876543210",
+            "role": "developer"
+        },
+        {
+            "first_name": "Som",
+            "last_name": "Sekhar",
+            "title": "Mr",
+            "email": "som@cesltd.com",
+            "phone_no": "9876543210",
+            "role": "developer"
+        },
+        {
+            "first_name": "Som",
+            "last_name": "Sekhar",
+            "title": "Mr",
+            "email": "som@cesltd.com",
+            "phone_no": "9876543210",
+            "role": "developer"
+        },
+        {
+            "first_name": "Som",
+            "last_name": "Sekhar",
+            "title": "Mr",
+            "email": "som@cesltd.com",
+            "phone_no": "9876543210",
+            "role": "developer"
+        },
+        {
+            "first_name": "Som",
+            "last_name": "Sekhar",
+            "title": "Mr",
+            "email": "som@cesltd.com",
+            "phone_no": "9876543210",
+            "role": "developer"
+        }
+    ],
+    "diversity": [
+        {
+            "category": "Minority Owned Busniess Enterprises (MBE)",
+            "attested_type": "abcdef",
+            "counceil": "National Minority Supplier Development Council",
+            "certificate_number": "23975471864",
+            "issued_date": "10/11/2021",
+            "expiray_date": "10/11/2031",
+            "notes": "ABCD"
+        },
+        {
+            "category": "Minority Owned Busniess Enterprises (MBE)",
+            "attested_type": "abcdef",
+            "counceil": "National Minority Supplier Development Council",
+            "certificate_number": "23975471864",
+            "issued_date": "10/11/2021",
+            "expiray_date": "10/11/2031",
+            "notes": "ABCD"
+        },
+        {
+            "category": "Minority Owned Busniess Enterprises (MBE)",
+            "attested_type": "abcdef",
+            "counceil": "National Minority Supplier Development Council",
+            "certificate_number": "23975471864",
+            "issued_date": "10/11/2021",
+            "expiray_date": "10/11/2031",
+            "notes": "ABCD"
+        },
+        {
+            "category": "Minority Owned Busniess Enterprises (MBE)",
+            "attested_type": "abcdef",
+            "counceil": "National Minority Supplier Development Council",
+            "certificate_number": "23975471864",
+            "issued_date": "10/11/2021",
+            "expiray_date": "10/11/2031",
+            "notes": "ABCD"
+        },
+        {
+            "category": "Minority Owned Busniess Enterprises (MBE)",
+            "attested_type": "abcdef",
+            "counceil": "National Minority Supplier Development Council",
+            "certificate_number": "23975471864",
+            "issued_date": "10/11/2021",
+            "expiray_date": "10/11/2031",
+            "notes": "ABCD"
+        },
+        {
+            "category": "Minority Owned Busniess Enterprises (MBE)",
+            "attested_type": "abcdef",
+            "counceil": "National Minority Supplier Development Council",
+            "certificate_number": "23975471864",
+            "issued_date": "10/11/2021",
+            "expiray_date": "10/11/2031",
+            "notes": "ABCD"
+        },
+        {
+            "category": "Minority Owned Busniess Enterprises (MBE)",
+            "attested_type": "abcdef",
+            "counceil": "National Minority Supplier Development Council",
+            "certificate_number": "23975471864",
+            "issued_date": "10/11/2021",
+            "expiray_date": "10/11/2031",
+            "notes": "ABCD"
+        },
+        {
+            "category": "Minority Owned Busniess Enterprises (MBE)",
+            "attested_type": "abcdef",
+            "counceil": "National Minority Supplier Development Council",
+            "certificate_number": "23975471864",
+            "issued_date": "10/11/2021",
+            "expiray_date": "10/11/2031",
+            "notes": "ABCD"
+        },
+        {
+            "category": "Minority Owned Busniess Enterprises (MBE)",
+            "attested_type": "abcdef",
+            "counceil": "National Minority Supplier Development Council",
+            "certificate_number": "23975471864",
+            "issued_date": "10/11/2021",
+            "expiray_date": "10/11/2031",
+            "notes": "ABCD"
+        },
+        {
+            "category": "Minority Owned Busniess Enterprises (MBE)",
+            "attested_type": "abcdef",
+            "counceil": "National Minority Supplier Development Council",
+            "certificate_number": "23975471864",
+            "issued_date": "10/11/2021",
+            "expiray_date": "10/11/2031",
+            "notes": "ABCD"
+        }
+    ],
+    "general":[
+        { "key": "Company Name", "value": "Ces IT" },
+        { "key": "Tax Type", "value": "Federal Tax Id" },
+        { "key": "Tax Id", "value": "123" },
+        { "key": "Revenue Last Year", "value": "9999" },
+        { "key": "Revenue Year Back", "value": "8469" },
+        { "key": "Website", "value": "CesI.com" },
+        { "key": "No.of Employees", "value": "2000" },
+        { "key": "Business Address", "value": "Chennai" },
+        { "key": "Company Phone", "value": "1234567890" },
+        { "key": "Fax", "value": "36987" },
+        { "key": "Title", "value": "Mr." },
+        { "key": "Contact Person", "value": "Som" },
+        { "key": "Phone", "value": "1597532495" },
+        { "key": "Email", "value": "abc@gmail.com" }
+    ],
+    "service":[
+        { "key": "About Your Business", "value": "BIO" },
+        { "key": "NAIC & Primary Info", "value": "Primary NAICS Code Alternate NAICS Code" },
+        { "key": "Services Material", "value": "File Name" }
+    ]
+}

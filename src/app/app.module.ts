@@ -9,11 +9,14 @@ import { MatCardModule } from '@angular/material/card';
 import { MatDialogModule } from '@angular/material/dialog';
 import { ConfirmationPopupComponent } from './components/confirmation-popup/confirmation-popup.component';
 import { HttpClientModule } from '@angular/common/http';
-
+import { SummaryComponent } from './components/summary/summary.component';
+import { MatTableModule } from '@angular/material/table'
+import { MatPaginatorModule } from '@angular/material/paginator';
 @NgModule({
   declarations: [
     AppComponent,
-    ConfirmationPopupComponent
+    ConfirmationPopupComponent,
+    SummaryComponent
   ],
   imports: [
     BrowserModule,
@@ -22,7 +25,9 @@ import { HttpClientModule } from '@angular/common/http';
     MatIconModule,
     MatCardModule,
     MatDialogModule,
-    HttpClientModule
+    HttpClientModule,
+    MatTableModule,
+    MatPaginatorModule
   ],
   schemas: [
     CUSTOM_ELEMENTS_SCHEMA
